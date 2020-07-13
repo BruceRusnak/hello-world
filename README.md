@@ -1,7 +1,7 @@
 # hello-world
 a short description will appear at a future date
 
-Opps!
+**Opps!**
 That did not work the way I expected
 
 Write a little bit about yourself
